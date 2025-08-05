@@ -1,7 +1,7 @@
 
 # Supply Chain Management Dashboard
 
-
+#Dashboard Link : https://www.novypro.com/create_project/supply-chain-management-dashboard-1
 
 
 This project presents a comprehensive Power BI dashboard for analyzing the supply chain performance of ATLIQ Mart. The dashboard covers key performance indicators (KPIs) such as Order Quantity, Delivery Quantity, Inventory Fill Rate (IF%), On-Time Delivery (OT%), On-Time In-Full (OTIF%), Line Item Fill Rate (LIFR%), and Volume Order Fill Rate (VOFR%). Data is broken down by city, customer, product, and month, enabling targeted supply chain optimizations.
